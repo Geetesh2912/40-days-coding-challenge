@@ -1,6 +1,6 @@
 //author: Geetesh Mandaogade
-//question link: https://leetcode.com/problems/plus-one/
-//submission link: https://leetcode.com/submissions/detail/666374493/
+//question link: https://leetcode.com/problems/find-pivot-index/
+//submission link: https://leetcode.com/submissions/detail/667047368/
 
 class Solution {
 public:
