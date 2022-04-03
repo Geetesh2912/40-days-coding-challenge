@@ -9,7 +9,7 @@ public:
         {
             for (int j=0; j<board[0].size(); j++)
             {
-                if (board[i][j]==word[0] and goSearch(i, j, 0, board, word))    //if 1st letter of word is found in the board we go and search adjacents further and if further all fouund we return true
+                if (goSearch(i, j, 0, board, word))    //if 1st letter of word is found in the board we go and search adjacents further and if further all fouund we return true
                     return true;
             }
         }
