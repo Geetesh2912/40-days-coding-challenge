@@ -1,5 +1,5 @@
 //author: Geetesh Mandaogade
-//question link: https://www.codingninjas.com/codestudio/problems/check-if-the-string-is-a-palindrome_1062633?utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_5
+//question link: https://www.codingninjas.com/codestudio/problems/check-if-the-string-is-a-palindrome_1062633
 
 bool isValid(char c)
 {
